@@ -3,4 +3,8 @@ name = "dataframe"
 version = "0.1.0"
 authors = ["Pedro Rodriguez <ski.rodriguez@gmail.com>"]
 
+homepage = "https://github.com/EntilZha/dataframe"
+repository = "https://github.com/EntilZha/dataframe"
+license = "MIT"
+
 [dependencies]
